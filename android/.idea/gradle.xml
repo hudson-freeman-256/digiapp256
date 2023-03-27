@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_plus-2.3.9/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus-8.1.0/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-5.2.5/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-4.2.5/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_oauth-1.2.2/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-2.6.1/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_android-6.1.5/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.5+5/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/package_info_plus-3.0.3/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.22/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.15/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.2.3/android" />
+            <option value="C:/scr/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.23/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

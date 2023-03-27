@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "797673020767",
+    "project_id": "digifarmer-4c273",
+    "storage_bucket": "digifarmer-4c273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797673020767:android:2dd5eacd89cd59cc262aea",
+        "android_client_info": {
+          "package_name": "co.agrosahas.digifarmer1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797673020767-j1kica6kejuiukpb12n2i5ht4jut5sdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.agrosahas.digifarmer1",
+            "certificate_hash": "79c0af7457caee517f37e87c334049f315c84770"
+          }
+        },
+        {
+          "client_id": "797673020767-js1pr70u4fomd98sk9fr5f0hav6o90b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC72YPZ5Rb-ulmivdW9hGwCcr0Oc4jwPDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797673020767-js1pr70u4fomd98sk9fr5f0hav6o90b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

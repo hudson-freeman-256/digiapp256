@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+co/agrosahas/digifarmer1/BuildConfig.java
+ co.agrosahas.digifarmer1.BuildConfig

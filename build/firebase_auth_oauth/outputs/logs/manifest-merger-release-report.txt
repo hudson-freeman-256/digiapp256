@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:2:3-56
+		INJECTED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml
+		INJECTED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:4:5-10:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:5:9-9:18
+action#android.intent.action.VIEW
+ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:6:13-65
+	android:name
+		ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:6:21-62
+category#android.intent.category.BROWSABLE
+ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:7:13-74
+	android:name
+		ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:7:23-71
+data
+ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:8:13-44
+	android:scheme
+		ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:8:19-41
+uses-sdk
+INJECTED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml
+INJECTED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml
+		ADDED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml
+		INJECTED from C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml

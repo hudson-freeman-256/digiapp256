@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.amryousef.apple.auth.firebase_apple_auth" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml
+6
+7    <queries>
+7-->C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:4:5-10:15
+8        <intent>
+8-->C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:5:9-9:18
+9            <action android:name="android.intent.action.VIEW" />
+9-->C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:6:13-65
+9-->C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:6:21-62
+10
+11            <category android:name="android.intent.category.BROWSABLE" />
+11-->C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:7:13-74
+11-->C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:7:23-71
+12
+13            <data android:scheme="https" />
+13-->C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:8:13-44
+13-->C:\scr\flutter\.pub-cache\hosted\pub.dartlang.org\firebase_auth_oauth-1.2.2\android\src\main\AndroidManifest.xml:8:19-41
+14        </intent>
+15    </queries>
+16
+17</manifest>

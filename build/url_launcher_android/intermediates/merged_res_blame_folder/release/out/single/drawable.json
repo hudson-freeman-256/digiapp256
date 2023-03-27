@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\digifarmer\\build\\url_launcher_android\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Hudson_Mwanika\\.gradle\\caches\\transforms-2\\files-2.1\\6026df9510db401bde1768f72e68950c\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\digifarmer\\build\\url_launcher_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Hudson_Mwanika\\.gradle\\caches\\transforms-2\\files-2.1\\6026df9510db401bde1768f72e68950c\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\digifarmer\\build\\url_launcher_android\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Hudson_Mwanika\\.gradle\\caches\\transforms-2\\files-2.1\\6026df9510db401bde1768f72e68950c\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\digifarmer\\build\\url_launcher_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Hudson_Mwanika\\.gradle\\caches\\transforms-2\\files-2.1\\6026df9510db401bde1768f72e68950c\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]
